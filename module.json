@@ -137,7 +137,7 @@
 		  "path": "lang/en.json"
 		}
 	],
-	"url": "https://github.com/MajorVictory/Pokemon5e-items",
-	"manifest": "https://raw.githubusercontent.com/MajorVictory/Pokemon5e-items/master/module.json",
-	"download": "https://github.com/MajorVictory/Pokemon5e-items/releases/download/v1.3.0/Pokemon5e-items.zip"
+	"url": "https://github.com/Souriel/P5e-Item",
+	"manifest": "https://raw.githubusercontent.com/Souriel/P5e-Item/main/module.json",
+	"download": "https://github.com/Souriel/P5e-Item/raw/main/Pokemon5e-items-master.zip"
 }
